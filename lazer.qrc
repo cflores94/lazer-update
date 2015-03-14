@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>stickDude copy.png</file>
+        <file>sentinel.png</file>
+        <file>laser2.png</file>
+        <file>playerBulletH.png</file>
+        <file>playerBulletV.png</file>
+        <file>boom.png</file>
+        <file>lostAlife.png</file>
+        <file>1Up.png</file>
+        <file>SEnemy copy.png</file>
+        <file>redbullet.png</file>
+        <file>1UpOrb.png</file>
+        <file>backg.jpg</file>
+        <file>SEnemy copy 2.png</file>
+    </qresource>
+</RCC>
